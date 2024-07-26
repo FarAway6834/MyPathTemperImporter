@@ -4,11 +4,11 @@ from setuptools import setup, find_packages
 
 setup(
     name='mpti',
-    version='0.0.1',
+    version='0.0.2',
     description='MyPathTemperImporter',
     author='FarAway6834',
     author_email='faway6834@gmail.com',
-    url='https://github.com/FarAway6834/MyPathTemperImporter,
+    url='https://github.com/FarAway6834/MyPathTemperImporter',
     install_requires=[
         'mypkggener',  #actually use in delpoy later.
         'hgen'  #actually use in build C project. not now.
