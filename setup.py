@@ -8,14 +8,15 @@ setup(
     description='MyPathTemperImporter',
     author='FarAway6834',
     author_email='faway6834@gmail.com',
-    url='https://github.com/FarAway6834/MyPkgGener',
+    url='https://github.com/FarAway6834/MyPathTemperImporter,
     install_requires=[
-        'mypkggener', #actually use in delpoy later.
-        'hgen' #actually use in build C project. not now.
+        'mypkggener',  #actually use in delpoy later.
+        'hgen'  #actually use in build C project. not now.
     ],
     packages=find_packages(exclude=[]),
     keywords=[
-        'FarAway', 'FarAway6834', 'MyPathTempImporter', 'MPTI', 'imports more perfact', 'imports'
+        'FarAway', 'FarAway6834', 'MyPathTempImporter', 'MPTI',
+        'imports more perfact', 'imports'
     ],
     python_requires='>=3.10',
     package_data={},
